@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/<github/marcmcmillin/managed-argocd-lab' # Update to match your fork.
+    repoURL: 'https://github.com/marcmcmillin/managed-argocd-lab' # Update to match your fork.
     path: portal
     targetRevision: HEAD
   destination:
